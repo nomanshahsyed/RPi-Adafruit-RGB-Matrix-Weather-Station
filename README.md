@@ -17,3 +17,5 @@ Weather data is obtained from https://openweathermap.org/ every 5 minutes.
 PIR detects the human presense and turns on the matrix for around a minute. This time and sensitivity can be incrased/decreased using the onboard potentiometers. The matrix shows time, date, outside temp, outside humidity, inside temperature, sunrise and sunset times etc.
 
 I designed and 3d printed a few bridges to attach two matrices together. Also a 3d printed part was designed to attach the PIR sensor.
+
+![image](https://user-images.githubusercontent.com/26595409/116093224-2d093d80-a6af-11eb-8c48-5d1a1e9c16ac.png)
