@@ -18,4 +18,8 @@ PIR detects the human presense and turns on the matrix for around a minute. This
 
 I designed and 3d printed a few bridges to attach two matrices together. Also a 3d printed part was designed to attach the PIR sensor.
 
+Further on RPI i made a startup service which runs the program on startup. It can be done by following the link below.
+
+https://www.raspberrypi.org/documentation/linux/usage/systemd.md
+
 ![image](https://user-images.githubusercontent.com/26595409/116093224-2d093d80-a6af-11eb-8c48-5d1a1e9c16ac.png)
